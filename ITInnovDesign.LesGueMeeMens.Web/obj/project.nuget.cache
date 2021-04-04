@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "psaaqoViIeQuag8Eugcx97QVvZIibK6FcvRfRTDVPXShv04h8iur0sLIeEbZw5jvjf8r9hwJiCsHxwTVX6Oefw==",
+  "dgSpecHash": "k+DSq+cQjjfdkuTpb2zL/lpz85y4Ow886CFyk+WXtrh42RdltUyZqrwZ9Sg9oLgcKTXcf4UQGJlLDWhYDGoQOA==",
   "success": true,
   "projectFilePath": "C:\\Worksapce\\ITInnovDesign\\ITInnoVDesign.LesGueMeeMens\\ITInnovDesign.LesGueMeeMens.Web\\ITInnovDesign.LesGueMeeMens.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jpierre.deffofotso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
